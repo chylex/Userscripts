@@ -21,6 +21,16 @@ Prevents websites from hijacking middle-clicks, right-clicks, and common keyboar
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/(General)/StopFuckingWithMyMouseAndKeyboard.user.js) \]
 
+## Reddit
+
+### Wholesome Reddit
+Hides the downvote button, and forces the upvote button to be always visible.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/Reddit/WholesomeReddit.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/8ce80b4fc8cfc612bb6301484fd933f9e6dafcce/Reddit/WholesomeReddit.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/Reddit/WholesomeReddit.user.js) \]
+
 ## Twitch
 
 ### Transparent Twitch Chat
