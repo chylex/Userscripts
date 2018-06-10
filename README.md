@@ -20,3 +20,9 @@ Prevents websites from hijacking middle-clicks, right-clicks, and common keyboar
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/ff40cc2db10ae93648348a86f1e49a1d0f9eb3cc/(General)/StopFuckingWithMyMouseAndKeyboard.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/(General)/StopFuckingWithMyMouseAndKeyboard.user.js) \]
+
+## Twitch
+
+### Transparent Twitch Chat
+Overlays Twitch chat over the video to save space. Includes many customizations regarding the chat layout and opacity, text filters, and options to hide chat elements and badges for less clutter.  
+\[ [External link](https://github.com/chylex/Transparent-Twitch-Chat) \]
