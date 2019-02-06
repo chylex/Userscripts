@@ -54,5 +54,5 @@ Removes activity check that interrupts video playback. **This script is experime
 ## Discord
 
 ### Discord History Tracker
-Lets you locally save chat history in your servers, groups, and private conversations.
+Lets you locally save chat history in your servers, groups, and private conversations.  
 \[ [External link](https://dht.chylex.com) \]
