@@ -49,3 +49,10 @@ Removes activity check that interrupts video playback. **This script is experime
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/2ddfdcd8cffb796830ff04847f43f2bf91fb0ffc/YouTube/ActivityCheckRemoval.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/ActivityCheckRemoval.user.js) \]
+
+---
+## Discord
+
+### Discord History Tracker
+Lets you locally save chat history in your servers, groups, and private conversations.
+\[ [External link](https://dht.chylex.com) \]
