@@ -1,4 +1,4 @@
-# How to Install
+## How to Install
 If you don't already have a userscript manager installed in your browser, I would recommend one of these:
 
 * [Violentmonkey](https://violentmonkey.github.io/get-it/) (**Firefox 57+**, **Chrome**)
@@ -9,11 +9,11 @@ Pick whichever scripts you want from the list below, and click the link to insta
 
 If you want to [report an issue](https://github.com/chylex/Userscripts/issues/new) (bug report or feature request) for one of the scripts, please make sure you're using the most recent version of that script, and search for [existing issues](https://github.com/chylex/Userscripts/issues) in case it's already been reported.
 
-# Userscripts
+## Userscripts
 
-## (General)
+### (General)
 
-### Stop Fucking With My Mouse & Keyboard
+#### Stop Fucking With My Mouse & Keyboard
 Prevents websites from hijacking middle-clicks, right-clicks, and common keyboard shortcuts.  
 \[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/(General)/StopFuckingWithMyMouseAndKeyboard.user.js) \]
 \-
@@ -22,9 +22,16 @@ Prevents websites from hijacking middle-clicks, right-clicks, and common keyboar
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/(General)/StopFuckingWithMyMouseAndKeyboard.user.js) \]
 
 ---
-## Reddit
+### Discord
 
-### Wholesome Reddit
+#### Discord History Tracker
+Lets you locally save chat history in your servers, groups, and private conversations.  
+\[ [External link](https://dht.chylex.com) \]
+
+---
+### Reddit
+
+#### Wholesome Reddit
 Hides the downvote button, and forces the upvote button to be always visible.  
 \[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/Reddit/WholesomeReddit.user.js) \]
 \-
@@ -33,26 +40,19 @@ Hides the downvote button, and forces the upvote button to be always visible.
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/Reddit/WholesomeReddit.user.js) \]
 
 ---
-## Twitch
+### Twitch
 
-### Transparent Twitch Chat
+#### Transparent Twitch Chat
 Overlays Twitch chat over the video to save space. Includes many customizations regarding the chat layout and opacity, text filters, and options to hide chat elements and badges for less clutter.  
 \[ [External link](https://github.com/chylex/Transparent-Twitch-Chat) \]
 
 ---
-## YouTube
+### YouTube
 
-### Activity Check Removal
+#### Activity Check Removal
 Removes activity check that interrupts video playback. **This script is experimental**, please report any issues you run into.   
 \[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/ActivityCheckRemoval.user.js) \]
 \-
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/2ddfdcd8cffb796830ff04847f43f2bf91fb0ffc/YouTube/ActivityCheckRemoval.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/ActivityCheckRemoval.user.js) \]
-
----
-## Discord
-
-### Discord History Tracker
-Lets you locally save chat history in your servers, groups, and private conversations.  
-\[ [External link](https://dht.chylex.com) \]
