@@ -67,3 +67,11 @@ Removes activity check that interrupts video playback. **This script is experime
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/2ddfdcd8cffb796830ff04847f43f2bf91fb0ffc/YouTube/ActivityCheckRemoval.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/ActivityCheckRemoval.user.js) \]
+
+#### Block YouTube Playlists
+Removes playlists from YouTube video URLs.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/BlockPlaylists.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/b74c26ed01640db4f6d0a06f67d6e25627fb07be/YouTube/BlockPlaylists.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/BlockPlaylists.user.js) \]
