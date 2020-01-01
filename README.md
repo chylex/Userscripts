@@ -29,6 +29,17 @@ Lets you locally save chat history in your servers, groups, and private conversa
 \[ [External link](https://dht.chylex.com) \]
 
 ---
+### OpenEye
+
+#### Load & Filter OpenEye Crashes
+Adds a button to load all pages in the [Crashes](https://openeye.openmods.info/crashes?page=1) tab, and filter out unwanted crashes. Configurable at the beginning of the script.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/OpenEye/LoadAllPages.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/77f4f1a9a007a907bea94599f4ccabddff40b159/OpenEye/LoadAllPages.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/OpenEye/LoadAllPages.user.js) \]
+
+---
 ### Reddit
 
 #### Wholesome Reddit
