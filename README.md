@@ -34,11 +34,14 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
             <td><a href="#transparent-twitch-chat">Transparent Twitch Chat</a></td>
         </tr>
         <tr>
-            <th rowspan=2>YouTube</th>
+            <th rowspan=3>YouTube</th>
             <td><a href="#activity-check-removal">Activity Check Removal</a></td>
         </tr>
         <tr>
             <td><a href="#block-youtube-playlists">Block YouTube Playlists</a></td>
+        </tr>
+        <tr>
+            <td><a href="#fix-youtube-fullscreen-text-selection">Fix YouTube Fullscreen Text Selection</a></td>
         </tr>
     </tbody>
 </table>
@@ -109,3 +112,11 @@ Removes playlists from YouTube video URLs.
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/b74c26ed01640db4f6d0a06f67d6e25627fb07be/YouTube/BlockPlaylists.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/BlockPlaylists.user.js) \]
+
+#### Fix YouTube Fullscreen Text Selection
+Prevents accidentally selecting text when double-clicking the video to toggle fullscreen.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/FixFullscreenTextSelection.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/34937d0a1d6b53f0ef10aa8e2ff5787f905e4090/YouTube/FixFullscreenTextSelection.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/FixFullscreenTextSelection.user.js) \]
