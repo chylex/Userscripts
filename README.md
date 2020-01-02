@@ -9,6 +9,40 @@ Pick whichever scripts you want from the list below, and click the link to insta
 
 If you want to [report an issue](https://github.com/chylex/Userscripts/issues/new) (bug report or feature request) for one of the scripts, please make sure you're using the most recent version of that script, and search for [existing issues](https://github.com/chylex/Userscripts/issues) in case it's already been reported.
 
+## Summary
+
+<table>
+    <tbody>
+        <tr>
+            <th rowspan=1>(General)</th>
+            <td><a href="#stop-fucking-with-my-mouse--keyboard">Stop Fucking With My Mouse & Keyboard</a></td>
+        </tr>
+        <tr>
+            <th rowspan=1>Discord</th>
+            <td><a href="#discord-history-tracker">Discord History Tracker</a></td>
+        </tr>
+        <tr>
+            <th rowspan=1>OpenEye</th>
+            <td><a href="#load--filter-openeye-crashes">Load & Filter OpenEye Crashes</a></td>
+        </tr>
+        <tr>
+            <th rowspan=1>Reddit</th>
+            <td><a href="#wholesome-reddit">Wholesome Reddit</a></td>
+        </tr>
+        <tr>
+            <th rowspan=1>Twitch</th>
+            <td><a href="#transparent-twitch-chat">Transparent Twitch Chat</a></td>
+        </tr>
+        <tr>
+            <th rowspan=2>YouTube</th>
+            <td><a href="#activity-check-removal">Activity Check Removal</a></td>
+        </tr>
+        <tr>
+            <td><a href="#block-youtube-playlists">Block YouTube Playlists</a></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Userscripts
 
 ### (General)
@@ -61,7 +95,7 @@ Overlays Twitch chat over the video to save space. Includes many customizations 
 ### YouTube
 
 #### Activity Check Removal
-Removes activity check that interrupts video playback. **This script is experimental**, please report any issues you run into.   
+Removes activity check that interrupts video playback. **This script is experimental**, please report any issues you run into.  
 \[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/ActivityCheckRemoval.user.js) \]
 \-
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/2ddfdcd8cffb796830ff04847f43f2bf91fb0ffc/YouTube/ActivityCheckRemoval.user.js) \]
