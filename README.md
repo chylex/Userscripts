@@ -14,28 +14,48 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
 <table>
     <tbody>
         <tr>
-            <th rowspan=1>(General)</th>
-            <td><a href="#stop-fucking-with-my-mouse--keyboard">Stop Fucking With My Mouse & Keyboard</a></td>
+            <th width="110px" rowspan="1">(General)</th>
+            <td width="325px"><a href="#stop-fucking-with-my-mouse--keyboard">Stop Fucking With My Mouse & Keyboard</a></td>
         </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
         <tr>
-            <th rowspan=1>Discord</th>
-            <td><a href="#discord-history-tracker">Discord History Tracker</a></td>
+            <th width="110px" rowspan="1">Discord</th>
+            <td width="325px"><a href="#discord-history-tracker">Discord History Tracker</a></td>
         </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
         <tr>
-            <th rowspan=1>OpenEye</th>
-            <td><a href="#load--filter-openeye-crashes">Load & Filter OpenEye Crashes</a></td>
+            <th width="110px" rowspan="1">OpenEye</th>
+            <td width="325px"><a href="#load--filter-openeye-crashes">Load & Filter OpenEye Crashes</a></td>
         </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
         <tr>
-            <th rowspan=1>Reddit</th>
-            <td><a href="#wholesome-reddit">Wholesome Reddit</a></td>
+            <th width="110px" rowspan="1">Reddit</th>
+            <td width="325px"><a href="#wholesome-reddit">Wholesome Reddit</a></td>
         </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
         <tr>
-            <th rowspan=1>Twitch</th>
-            <td><a href="#transparent-twitch-chat">Transparent Twitch Chat</a></td>
+            <th width="110px" rowspan="1">Twitch</th>
+            <td width="325px"><a href="#transparent-twitch-chat">Transparent Twitch Chat</a></td>
         </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
         <tr>
-            <th rowspan=3>YouTube</th>
-            <td><a href="#activity-check-removal">Activity Check Removal</a></td>
+            <th width="110px" rowspan="3">YouTube</th>
+            <td width="325px"><a href="#activity-check-removal">Activity Check Removal</a></td>
         </tr>
         <tr>
             <td><a href="#block-youtube-playlists">Block YouTube Playlists</a></td>
