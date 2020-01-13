@@ -117,6 +117,8 @@ Hides the downvote button, and forces the upvote button to be always visible.
 Overlays Twitch chat over the video to save space. Includes many customizations regarding the chat layout and opacity, text filters, and options to hide chat elements and badges for less clutter.  
 \[ [External link](https://github.com/chylex/Transparent-Twitch-Chat) \]
 
+<img src="https://repo.chylex.com/transparent-twitch-chat.png?" width="400">
+
 ---
 ### YouTube
 
@@ -151,3 +153,5 @@ In theater mode, it expands video to full screen, makes chat transparent and ove
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/f8fcfdf456580f65750f6cf1fd58bcd69a553949/YouTube/TheaterFullscreenTransparentChat.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/TheaterFullscreenTransparentChat.user.js) \]
+
+<img src="https://repo.chylex.com/transparent-youtube-chat.png?" width="400">
