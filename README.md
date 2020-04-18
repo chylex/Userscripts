@@ -54,7 +54,7 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
 <table>
     <tbody>
         <tr>
-            <th width="110px" rowspan="4">YouTube</th>
+            <th width="110px" rowspan="5">YouTube</th>
             <td width="325px"><a href="#activity-check-removal">Activity Check Removal</a></td>
         </tr>
         <tr>
@@ -62,6 +62,9 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         </tr>
         <tr>
             <td><a href="#fix-youtube-fullscreen-text-selection">Fix YouTube Fullscreen Text Selection</a></td>
+        </tr>
+        <tr>
+            <td><a href="#hide-youtube-seek-bar--duration">Hide YouTube Seek Bar & Duration</a></td>
         </tr>
         <tr>
             <td><a href="#theater-fullscreen--transparent-chat">Theater Fullscreen + Transparent Chat</a></td>
@@ -145,6 +148,14 @@ Prevents accidentally selecting text when double-clicking the video to toggle fu
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/34937d0a1d6b53f0ef10aa8e2ff5787f905e4090/YouTube/FixFullscreenTextSelection.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/FixFullscreenTextSelection.user.js) \]
+
+#### Hide YouTube Seek Bar & Duration
+Hides all mentions of video durations by default. Press 'AltGr' to toggle.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/HideSeekBarAndDuration.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/f963a6c53e0fd46ef7156f9c7439053e6302b2b6/YouTube/HideSeekBarAndDuration.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/HideSeekBarAndDuration.user.js) \]
 
 #### Theater Fullscreen + Transparent Chat
 In theater mode, it expands video to full screen, makes chat transparent and overlays it over the video. Note that colors of images in chat will be inverted, and the player controls may behave strangely. **Requires classic YouTube layout,** you can use the third-party [Youtube - Restore Classic](https://greasyfork.org/en/scripts/34818-youtube-restore-classic) script for that.  
