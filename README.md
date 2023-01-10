@@ -126,7 +126,7 @@ Overlays Twitch chat over the video to save space. Includes many customizations 
 ### YouTube
 
 #### Activity Check Removal
-Removes activity check that interrupts video playback. **This script is experimental**, please report any issues you run into.  
+Removes activity check that interrupts video playback. **This script is obsolete**.  
 \[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/ActivityCheckRemoval.user.js) \]
 \-
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/2ddfdcd8cffb796830ff04847f43f2bf91fb0ffc/YouTube/ActivityCheckRemoval.user.js) \]
