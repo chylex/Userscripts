@@ -1,0 +1,20 @@
+/* ==UserStyle==
+@name         Show All Languages on Wikipedia
+@description  Shows all languages in the sidebar instead of collapsing them into a drop-down.
+@version      1
+@author       chylex
+@license      MPL-2.0
+@namespace    https://chylex.com
+@homepageURL  https://github.com/chylex/Userscripts
+@supportURL   https://github.com/chylex/Userscripts/issues
+==/UserStyle== */
+
+@-moz-document domain("wikipedia.org") {
+  .mw-interlanguage-selector {
+    display: none !important;
+  }
+  
+  .interlanguage-link {
+    display: block !important;
+  }
+}
