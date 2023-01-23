@@ -90,9 +90,13 @@ Before you [report an issue](https://github.com/chylex/Userscripts/issues/new) (
 <table>
     <tbody>
         <tr>
-            <th width="110px" rowspan="1">Wikipedia</th>
+            <th width="110px" rowspan="2">Wikipedia</th>
             <td width="325px"><a href="#old-design">Old Design</a></td>
             <td>Script</td>
+        </tr>
+        <tr>
+            <td width="325px"><a href="#show-all-languages">Show All Languages</a></td>
+            <td>Style</td>
         </tr>
     </tbody>
 </table>
@@ -202,3 +206,11 @@ Reverts to the old Vector design.
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/2b6bad9b2ba7a25c99e5f5b705de61e3661e89ef/Wikipedia/OldDesign.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/Wikipedia/OldDesign.user.js) \]
+
+#### Show All Languages
+Shows all languages in the sidebar instead of collapsing them into a drop-down.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/Wikipedia/ShowAllLanguages.user.css) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/8e20444d16c3214f8bf9d0f72c5df9ccd9d29e6a/Wikipedia/ShowAllLanguages.user.css) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/Wikipedia/ShowAllLanguages.user.css) \]
