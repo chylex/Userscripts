@@ -1,13 +1,19 @@
+## Userscripts
+This repository contains my userscripts and userstyles (custom scripts and styles) for various websites. Most of them are licensed under [MPL-2.0](LICENSE.txt), but you can see the license and additional authors of each individual script or style in the metadata comment at the top of the file.
+
 ## How to Install
-If you don't already have a userscript manager installed in your browser, I would recommend one of these:
+If you don't already have a userscript or userstyle manager installed in your browser, I would recommend one of these:
 
-* [Violentmonkey](https://violentmonkey.github.io/get-it/) (**Firefox 57+**, **Chrome**)
-* [Tampermonkey](https://tampermonkey.net/) (**Edge**, **Opera**, **Safari**)
-* [Greasemonkey 3](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/?page=1#version-3.17) (**Firefox 56 or older**, make sure to prevent it from updating)
+* **Userscript managers**
+  * [Violentmonkey](https://violentmonkey.github.io/get-it/) (**Firefox 57+**, **Chrome**)
+  * [Tampermonkey](https://tampermonkey.net/) (**Edge**, **Opera**, **Safari**)
+  * [Greasemonkey 3](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/versions/?page=1#version-3.17) (**Firefox 56 or older**, make sure to prevent it from updating)
+* **Userstyle managers**
+  * [Stylus](https://github.com/openstyles/stylus)
 
-Pick whichever scripts you want from the list below, and click the link to install them. The userscript manager will automatically update all installed scripts, however since these scripts are quite simple and updates may change how they work, each of them has an alternative link that will never update.
+Pick whichever scripts or styles you want from the list below, and click the link to install them. The userscript or userstyle manager will automatically update all installed scripts, however since these scripts and styles are quite simple and updates may change how they work, each of them has an alternative link that will never update.
 
-If you want to [report an issue](https://github.com/chylex/Userscripts/issues/new) (bug report or feature request) for one of the scripts, please make sure you're using the most recent version of that script, and search for [existing issues](https://github.com/chylex/Userscripts/issues) in case it's already been reported.
+Before you [report an issue](https://github.com/chylex/Userscripts/issues/new) (bug report or feature request), please make sure you're using the most recent version of that script or style, and search for [existing issues](https://github.com/chylex/Userscripts/issues) in case it's already been reported.
 
 ## Summary
 
@@ -16,6 +22,7 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         <tr>
             <th width="110px" rowspan="1">(General)</th>
             <td width="325px"><a href="#stop-fucking-with-my-mouse--keyboard">Stop Fucking With My Mouse & Keyboard</a></td>
+            <td>Script</td>
         </tr>
     </tbody>
 </table>
@@ -24,6 +31,7 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         <tr>
             <th width="110px" rowspan="1">Discord</th>
             <td width="325px"><a href="#discord-history-tracker">Discord History Tracker</a></td>
+            <td>Script</td>
         </tr>
     </tbody>
 </table>
@@ -32,6 +40,7 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         <tr>
             <th width="110px" rowspan="1">OpenEye</th>
             <td width="325px"><a href="#load--filter-openeye-crashes">Load & Filter OpenEye Crashes</a></td>
+            <td>Script</td>
         </tr>
     </tbody>
 </table>
@@ -40,6 +49,7 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         <tr>
             <th width="110px" rowspan="1">Reddit</th>
             <td width="325px"><a href="#wholesome-reddit">Wholesome Reddit</a></td>
+            <td>Script</td>
         </tr>
     </tbody>
 </table>
@@ -48,6 +58,7 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         <tr>
             <th width="110px" rowspan="1">Twitch</th>
             <td width="325px"><a href="#transparent-twitch-chat">Transparent Twitch Chat</a></td>
+            <td>Script</td>
         </tr>
     </tbody>
 </table>
@@ -56,18 +67,23 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         <tr>
             <th width="110px" rowspan="5">YouTube</th>
             <td width="325px"><a href="#activity-check-removal">Activity Check Removal</a></td>
+            <td>Script</td>
         </tr>
         <tr>
             <td><a href="#block-youtube-playlists">Block YouTube Playlists</a></td>
+            <td>Script</td>
         </tr>
         <tr>
             <td><a href="#fix-youtube-fullscreen-text-selection">Fix YouTube Fullscreen Text Selection</a></td>
+            <td>Script</td>
         </tr>
         <tr>
             <td><a href="#hide-youtube-seek-bar--duration">Hide YouTube Seek Bar & Duration</a></td>
+            <td>Script</td>
         </tr>
         <tr>
             <td><a href="#theater-fullscreen--transparent-chat">Theater Fullscreen + Transparent Chat</a></td>
+            <td>Script</td>
         </tr>
     </tbody>
 </table>
@@ -76,6 +92,7 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         <tr>
             <th width="110px" rowspan="1">Wikipedia</th>
             <td width="325px"><a href="#old-design">Old Design</a></td>
+            <td>Script</td>
         </tr>
     </tbody>
 </table>
