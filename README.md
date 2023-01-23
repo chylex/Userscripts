@@ -203,7 +203,7 @@ In theater mode, it expands video to full screen, makes chat transparent and ove
 Reverts to the old Vector design.  
 \[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/Wikipedia/OldDesign.user.js) \]
 \-
-\[ [Manually updated](https://github.com/chylex/Userscripts/raw/2b6bad9b2ba7a25c99e5f5b705de61e3661e89ef/Wikipedia/OldDesign.user.js) \]
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/bd10edeb73ded1b0af0c4c715ef4399e9db248e8/Wikipedia/OldDesign.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/Wikipedia/OldDesign.user.js) \]
 
