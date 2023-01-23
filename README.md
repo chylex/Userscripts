@@ -71,6 +71,14 @@ If you want to [report an issue](https://github.com/chylex/Userscripts/issues/ne
         </tr>
     </tbody>
 </table>
+<table>
+    <tbody>
+        <tr>
+            <th width="110px" rowspan="1">Wikipedia</th>
+            <td width="325px"><a href="#old-design">Old Design</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Userscripts
 
@@ -166,3 +174,14 @@ In theater mode, it expands video to full screen, makes chat transparent and ove
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/TheaterFullscreenTransparentChat.user.js) \]
 
 <img src="https://repo.chylex.com/transparent-youtube-chat.png?" width="400">
+
+---
+### Wikipedia
+
+#### Old Design
+Reverts to the old Vector design.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/Wikipedia/OldDesign.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/2b6bad9b2ba7a25c99e5f5b705de61e3661e89ef/Wikipedia/OldDesign.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/Wikipedia/OldDesign.user.js) \]
