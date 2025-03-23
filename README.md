@@ -65,7 +65,7 @@ Before you [report an issue](https://github.com/chylex/Userscripts/issues/new) (
 <table>
     <tbody>
         <tr>
-            <th width="110px" rowspan="5">YouTube</th>
+            <th width="110px" rowspan="6">YouTube</th>
             <td width="325px"><a href="#activity-check-removal">Activity Check Removal</a></td>
             <td>Script</td>
         </tr>
@@ -79,6 +79,10 @@ Before you [report an issue](https://github.com/chylex/Userscripts/issues/new) (
         </tr>
         <tr>
             <td><a href="#hide-youtube-seek-bar--duration">Hide YouTube Seek Bar & Duration</a></td>
+            <td>Script</td>
+        </tr>
+        <tr>
+            <td><a href="#redirect-youtube-shorts">Redirect YouTube Shorts</a></td>
             <td>Script</td>
         </tr>
         <tr>
@@ -185,6 +189,14 @@ Hides all mentions of video durations by default. Press 'AltGr' to toggle.
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/f963a6c53e0fd46ef7156f9c7439053e6302b2b6/YouTube/HideSeekBarAndDuration.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/HideSeekBarAndDuration.user.js) \]
+
+#### Redirect YouTube Shorts
+Redirects YouTube shorts to normal video URLs.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/RedirectShorts.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/035aed7554c89fee66a6278f4fcf73292821b7f5/YouTube/RedirectShorts.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/RedirectShorts.user.js) \]
 
 #### Theater Fullscreen + Transparent Chat
 In theater mode, it expands video to full screen, makes chat transparent and overlays it over the video. Note that colors of images in chat will be inverted, and the player controls may behave strangely. **Requires classic YouTube layout,** you can use the third-party [Youtube - Restore Classic](https://greasyfork.org/en/scripts/34818-youtube-restore-classic) script for that.  
