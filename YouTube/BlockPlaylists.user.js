@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Block YouTube Playlists
 // @description  Removes playlists from YouTube video URLs.
-// @version      1
+// @version      2
 // @license      MPL-2.0
 // @namespace    https://chylex.com
 // @homepageURL  https://github.com/chylex/Userscripts
@@ -13,18 +13,11 @@
 // @noframes
 // ==/UserScript==
 
-if (location.pathname == "/watch" && location.search.includes("&list=")){
-    history.replaceState({}, document.title, location.search.replace(/&list=(.*)/, ""));
-    location.reload();
+function redirectPlaylist() {
+	if (location.pathname === "/watch" && location.search.includes("&list=")) {
+		location.replace(location.href.replace(/&list=(.*)/, ""));
+	}
 }
 
-document.addEventListener("spfclick", function(e){
-    var url = e.detail.url;
-    
-    if (url.includes("youtube.com/watch?") && url.includes("&list=")){
-        // forces a normal page load
-        e.preventDefault();
-        e.stopPropagation();
-        e.stopImmediatePropagation();
-    }
-}, true);
+redirectPlaylist();
+document.addEventListener("yt-navigate-start", redirectPlaylist);
