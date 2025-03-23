@@ -166,7 +166,7 @@ Removes activity check that interrupts video playback. **This script is obsolete
 Removes playlists from YouTube video URLs.  
 \[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/BlockPlaylists.user.js) \]
 \-
-\[ [Manually updated](https://github.com/chylex/Userscripts/raw/b74c26ed01640db4f6d0a06f67d6e25627fb07be/YouTube/BlockPlaylists.user.js) \]
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/98097ef8c14ab84ff0dc7463bbe55a363890bb6d/YouTube/BlockPlaylists.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/BlockPlaylists.user.js) \]
 
