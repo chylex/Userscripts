@@ -65,12 +65,8 @@ Before you [report an issue](https://github.com/chylex/Userscripts/issues/new) (
 <table>
     <tbody>
         <tr>
-            <th width="110px" rowspan="6">YouTube</th>
-            <td width="325px"><a href="#activity-check-removal">Activity Check Removal</a></td>
-            <td>Script</td>
-        </tr>
-        <tr>
-            <td><a href="#block-youtube-playlists">Block YouTube Playlists</a></td>
+            <th width="110px" rowspan="5">YouTube</th>
+            <td width="325px"><a href="#block-youtube-playlists">Block YouTube Playlists</a></td>
             <td>Script</td>
         </tr>
         <tr>
@@ -157,14 +153,6 @@ Overlays Twitch chat over the video to save space. Includes many customizations 
 
 ---
 ### YouTube
-
-#### Activity Check Removal
-Removes activity check that interrupts video playback. **This script is obsolete**.  
-\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/YouTube/ActivityCheckRemoval.user.js) \]
-\-
-\[ [Manually updated](https://github.com/chylex/Userscripts/raw/2ddfdcd8cffb796830ff04847f43f2bf91fb0ffc/YouTube/ActivityCheckRemoval.user.js) \]
-\-
-\[ [Source code](https://github.com/chylex/Userscripts/blob/master/YouTube/ActivityCheckRemoval.user.js) \]
 
 #### Block YouTube Playlists
 Removes playlists from YouTube video URLs.  
