@@ -47,6 +47,15 @@ Before you [report an issue](https://github.com/chylex/Userscripts/issues/new) (
 <table>
     <tbody>
         <tr>
+            <th width="110px" rowspan="1">Patreon</th>
+            <td width="325px"><a href="#click-anywhere-to-close-image-dialog">Click Anywhere to Close Image Dialog</a></td>
+            <td>Script</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
+        <tr>
             <th width="110px" rowspan="1">Reddit</th>
             <td width="325px"><a href="#wholesome-reddit">Wholesome Reddit</a></td>
             <td>Script</td>
@@ -130,6 +139,17 @@ Adds a button to load all pages in the [Crashes](https://openeye.openmods.info/c
 \[ [Manually updated](https://github.com/chylex/Userscripts/raw/77f4f1a9a007a907bea94599f4ccabddff40b159/OpenEye/LoadAllPages.user.js) \]
 \-
 \[ [Source code](https://github.com/chylex/Userscripts/blob/master/OpenEye/LoadAllPages.user.js) \]
+
+---
+### Patreon
+
+#### Click Anywhere to Close Image Dialog
+Close modal image dialog by clicking anywhere on the page.  
+\[ [Automatically updated](https://github.com/chylex/Userscripts/raw/master/Patreon/ClickAnywhereToCloseImageDialog.user.js) \]
+\-
+\[ [Manually updated](https://github.com/chylex/Userscripts/raw/6b2f3698dc7082a57afa82470422f5c3418f1938/Patreon/ClickAnywhereToCloseImageDialog.user.js) \]
+\-
+\[ [Source code](https://github.com/chylex/Userscripts/blob/master/Patreon/ClickAnywhereToCloseImageDialog.user.js) \]
 
 ---
 ### Reddit
